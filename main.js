@@ -1,0 +1,1 @@
+Placeholder content for js/main.js
