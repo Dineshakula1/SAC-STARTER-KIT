@@ -1,1 +1,0 @@
-Placeholder content for js/team.js
